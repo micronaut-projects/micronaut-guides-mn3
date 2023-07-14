@@ -1,1 +1,0 @@
-The `@Validated` annotation tells Spring to validate parameters passed into a method of the annotated class.

@@ -1,1 +1,0 @@
-`@JdbcRepository` with a specific dialect.

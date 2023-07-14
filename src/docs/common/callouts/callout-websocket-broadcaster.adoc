@@ -1,1 +1,0 @@
-You can use a `WebSocketBroadcaster` to broadcast messages to every WebSocket session.

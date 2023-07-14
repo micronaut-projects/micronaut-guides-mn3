@@ -1,1 +1,0 @@
-Set the response content-type to `HTML` with the `@Produces` annotation.

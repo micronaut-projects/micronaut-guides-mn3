@@ -1,1 +1,0 @@
-Don't load this bean in the `test` environment.

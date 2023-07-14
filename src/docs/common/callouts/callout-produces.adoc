@@ -1,1 +1,0 @@
-Set the response content-type to `text/plain` with the `@Produces` annotation.

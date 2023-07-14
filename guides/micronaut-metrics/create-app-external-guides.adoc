@@ -1,3 +1,0 @@
-== The Application
-
-Download the complete solution of the guideLink:micronaut-metrics[Collect Metrics with Micronaut] guide. You will use the sample application as a starting point.

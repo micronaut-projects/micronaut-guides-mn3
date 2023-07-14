@@ -1,5 +1,0 @@
-[source,bash]
-----
-yum check-update
-sudo yum install graalvm22-ee-11.x86_64
-----

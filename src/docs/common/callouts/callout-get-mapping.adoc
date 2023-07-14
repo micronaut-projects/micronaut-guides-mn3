@@ -1,1 +1,0 @@
-The `@GetMapping` ensures that HTTP GET requests to `{0}` are mapped to the `{1}` method.

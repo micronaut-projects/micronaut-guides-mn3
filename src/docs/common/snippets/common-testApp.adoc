@@ -1,3 +1,0 @@
-== Testing the Application
-
-common:testApp-noheader.adoc[]

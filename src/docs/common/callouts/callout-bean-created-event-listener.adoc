@@ -1,2 +1,0 @@
-Creating a `@Singleton` that implements `BeanCreatedEventListener` allows you to provide extra configuration to
-beans after creation.

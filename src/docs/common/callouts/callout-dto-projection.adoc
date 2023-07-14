@@ -1,1 +1,0 @@
-Micronaut Data supports reflection-free Data Transfer Object (DTO) projections if the return type is annotated with `@Introspected`.

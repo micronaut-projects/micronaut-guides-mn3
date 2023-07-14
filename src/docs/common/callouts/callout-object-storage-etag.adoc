@@ -1,1 +1,0 @@
-The response contains not only the file, but also an `ETag` header.

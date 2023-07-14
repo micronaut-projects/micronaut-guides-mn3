@@ -1,1 +1,0 @@
-The picocli `@Command` annotation designates this class as a command.

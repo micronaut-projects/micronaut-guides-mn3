@@ -1,8 +1,0 @@
-:exclude-for-build:maven
-
-[source, bash]
-----
-./gradlew dockerPush
-----
-
-:exclude-for-build:

@@ -1,1 +1,0 @@
-The key represents the path under which the file will be stored.

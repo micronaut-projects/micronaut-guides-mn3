@@ -1,1 +1,0 @@
-The `@ContinueSpan` annotation will continue an existing span, wrapping the method call or reactive type.

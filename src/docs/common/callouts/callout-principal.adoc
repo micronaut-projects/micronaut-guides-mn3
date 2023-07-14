@@ -1,1 +1,0 @@
-You can bind `java.security.Principal` as a method’s parameter in a controller.

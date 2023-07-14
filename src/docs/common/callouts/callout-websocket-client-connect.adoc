@@ -1,2 +1,0 @@
-Once you have defined a client class, you can connect to the client socket and start sending messages.
-

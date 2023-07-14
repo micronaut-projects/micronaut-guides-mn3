@@ -1,8 +1,0 @@
-:exclude-for-build:gradle
-
-[source, bash]
-----
-./mvnw deploy -Dpackaging=docker
-----
-
-:exclude-for-build:

@@ -1,1 +1,0 @@
-This bean loads only if the specified environment is detected.

@@ -1,4 +1,0 @@
-@args(String image)
-dockerBuildNative {
-    images = ["@(image)"]
-}

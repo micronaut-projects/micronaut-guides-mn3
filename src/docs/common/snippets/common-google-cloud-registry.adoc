@@ -1,1 +1,0 @@
-Push the Docker image of your application to https://cloud.google.com/container-registry[Google Cloud Container Registry] or to https://cloud.google.com/artifact-registry[Google Cloud Artifact Registry].

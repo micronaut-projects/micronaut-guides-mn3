@@ -1,1 +1,0 @@
-Specifies the ID of an entity

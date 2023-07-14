@@ -1,1 +1,0 @@
-Inject the `HttpClient` bean and point it to the embedded server.

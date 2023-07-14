@@ -1,3 +1,0 @@
-== Running the Application
-
-common:runapp-instructions.adoc[]

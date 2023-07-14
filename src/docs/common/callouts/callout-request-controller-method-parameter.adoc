@@ -1,1 +1,0 @@
-You can bind the HTTP request as a controller method parameter.

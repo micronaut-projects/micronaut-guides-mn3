@@ -1,1 +1,0 @@
-The `@OnOpen` annotation declares the method to invoke when the WebSocket is opened.

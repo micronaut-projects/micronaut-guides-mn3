@@ -1,5 +1,0 @@
-common:flyway-header.adoc[]
-
-resource:application.yml[tag=flyway]
-
-common:flyway-footer.adoc[]

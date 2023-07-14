@@ -1,3 +1,0 @@
-=== OpenTelemetry Protocol Exporter
-
-An exporter is a component in the OpenTelemetry Collector configured to send data to different systems/back-ends.
