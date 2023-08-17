@@ -102,7 +102,7 @@ requests and responses in the API.
 The definition file is a document describing the Twitter API according to the link:https://swagger.io/specification/[OpenAPI Specification].
 
 If you want to learn about the structure of OpenAPI specification and how to simplify the creation of a Micronaut Server
-with it, read the link:https://guides.micronaut.io/latest/micronaut-openapi-generator-server.html["Use OpenAPI Defintion to Generate a Micronaut Server" guide]
+with it, read the link:https://micronaut-projects.github.io/micronaut-guides-mn3/latest/micronaut-openapi-generator-server.html["Use OpenAPI Defintion to Generate a Micronaut Server" guide]
 or the link:https://swagger.io/docs/specification/about/[OpenAPI guide].
 ====
 
@@ -314,7 +314,7 @@ common:graal-with-plugins.adoc[]
 == Next Steps
 
 === Learn How to Write OpenAPI Definition and Generate Server Based on It
-Read the link:https://guides.micronaut.io/latest/micronaut-openapi-generator-server.html["Use OpenAPI Definition to Generate a Micronaut Server" Guide]
+Read the link:https://micronaut-projects.github.io/micronaut-guides-mn3/latest/micronaut-openapi-generator-server.html["Use OpenAPI Definition to Generate a Micronaut Server" Guide]
 to learn how to:
 
 * understand OpenAPI definition files and write your own definition files,
