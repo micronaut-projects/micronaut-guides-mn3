@@ -92,12 +92,12 @@ class IndexGenerator {
             index += '<div class="grid">'
             index += '  <div class="grid-item grid-item_primary grid-item_one-third">'
             index += '    <div class="inner">'
-            index += '      <h1 class="title title_large first-word-bold first-word-break"><strong>Micronaut</strong> Guides</h1>'
+            index += '      <h1 class="title title_large first-word-bold first-word-break"><strong>Micronaut 3</strong> Guides</h1>'
             index += '    </div>'
             index += '  </div>'
             index += '  <div class="grid-item grid-item_white grid-item_two-third grid-item_dynamic-height latest-guides">'
             index += '    <div class="inner" style="padding: 0">'
-            index += guidesTable(latestGuides(metadatas), "Latest Guides", true)
+            index += guidesTable(latestGuides(metadatas), "Micronaut 3 Guides ", true)
             index += '    </div>'
             index += '  </div>'
             index += '</div>'
